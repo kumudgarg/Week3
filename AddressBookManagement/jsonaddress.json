@@ -1,0 +1,20 @@
+[
+  {
+    "FirstName": "Kumud",
+    "LastName": "Garg",
+    "Address": "near jain mandir Bharatpur",
+    "City": "Bharatpur",
+    "State": "Rajasthan",
+    "Zip": 654345,
+    "PhoneNumber": 9468679750
+  },
+  {
+    "FirstName": "ravi",
+    "LastName": "sharma",
+    "Address": "near m.g road",
+    "City": "Bbengluru",
+    "State": "karnataka",
+    "Zip": 321203,
+    "PhoneNumber": 7723541680
+  }
+]
